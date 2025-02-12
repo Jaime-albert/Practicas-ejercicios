@@ -1,0 +1,16 @@
+C:\Users\Dell Latitude\Desktop\practica02\bin\Debug\net8.0-windows\practica02.exe
+C:\Users\Dell Latitude\Desktop\practica02\bin\Debug\net8.0-windows\practica02.deps.json
+C:\Users\Dell Latitude\Desktop\practica02\bin\Debug\net8.0-windows\practica02.runtimeconfig.json
+C:\Users\Dell Latitude\Desktop\practica02\bin\Debug\net8.0-windows\practica02.dll
+C:\Users\Dell Latitude\Desktop\practica02\bin\Debug\net8.0-windows\practica02.pdb
+C:\Users\Dell Latitude\Desktop\practica02\obj\Debug\net8.0-windows\practica02.lblFormula.resources
+C:\Users\Dell Latitude\Desktop\practica02\obj\Debug\net8.0-windows\practica02.csproj.GenerateResource.cache
+C:\Users\Dell Latitude\Desktop\practica02\obj\Debug\net8.0-windows\practica02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell Latitude\Desktop\practica02\obj\Debug\net8.0-windows\practica02.AssemblyInfoInputs.cache
+C:\Users\Dell Latitude\Desktop\practica02\obj\Debug\net8.0-windows\practica02.AssemblyInfo.cs
+C:\Users\Dell Latitude\Desktop\practica02\obj\Debug\net8.0-windows\practica02.csproj.CoreCompileInputs.cache
+C:\Users\Dell Latitude\Desktop\practica02\obj\Debug\net8.0-windows\practica02.dll
+C:\Users\Dell Latitude\Desktop\practica02\obj\Debug\net8.0-windows\refint\practica02.dll
+C:\Users\Dell Latitude\Desktop\practica02\obj\Debug\net8.0-windows\practica02.pdb
+C:\Users\Dell Latitude\Desktop\practica02\obj\Debug\net8.0-windows\practica02.genruntimeconfig.cache
+C:\Users\Dell Latitude\Desktop\practica02\obj\Debug\net8.0-windows\ref\practica02.dll

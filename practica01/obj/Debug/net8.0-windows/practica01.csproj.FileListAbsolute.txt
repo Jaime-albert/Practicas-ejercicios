@@ -1,0 +1,17 @@
+C:\Users\Dell Latitude\Desktop\practica01\bin\Debug\net8.0-windows\practica01.exe
+C:\Users\Dell Latitude\Desktop\practica01\bin\Debug\net8.0-windows\practica01.deps.json
+C:\Users\Dell Latitude\Desktop\practica01\bin\Debug\net8.0-windows\practica01.runtimeconfig.json
+C:\Users\Dell Latitude\Desktop\practica01\bin\Debug\net8.0-windows\practica01.dll
+C:\Users\Dell Latitude\Desktop\practica01\bin\Debug\net8.0-windows\practica01.pdb
+C:\Users\Dell Latitude\Desktop\practica01\obj\Debug\net8.0-windows\practica01.Form1.resources
+C:\Users\Dell Latitude\Desktop\practica01\obj\Debug\net8.0-windows\practica01.csproj.GenerateResource.cache
+C:\Users\Dell Latitude\Desktop\practica01\obj\Debug\net8.0-windows\practica01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell Latitude\Desktop\practica01\obj\Debug\net8.0-windows\practica01.AssemblyInfoInputs.cache
+C:\Users\Dell Latitude\Desktop\practica01\obj\Debug\net8.0-windows\practica01.AssemblyInfo.cs
+C:\Users\Dell Latitude\Desktop\practica01\obj\Debug\net8.0-windows\practica01.csproj.CoreCompileInputs.cache
+C:\Users\Dell Latitude\Desktop\practica01\obj\Debug\net8.0-windows\practica01.dll
+C:\Users\Dell Latitude\Desktop\practica01\obj\Debug\net8.0-windows\refint\practica01.dll
+C:\Users\Dell Latitude\Desktop\practica01\obj\Debug\net8.0-windows\practica01.pdb
+C:\Users\Dell Latitude\Desktop\practica01\obj\Debug\net8.0-windows\practica01.genruntimeconfig.cache
+C:\Users\Dell Latitude\Desktop\practica01\obj\Debug\net8.0-windows\ref\practica01.dll
+C:\Users\Dell Latitude\Desktop\practica01\obj\Debug\net8.0-windows\practica01.Properties.Resources.resources
