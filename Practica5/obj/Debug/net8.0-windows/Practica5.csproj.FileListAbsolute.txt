@@ -1,0 +1,16 @@
+C:\Users\Dell Latitude\Desktop\Practica5\bin\Debug\net8.0-windows\Practica5.exe
+C:\Users\Dell Latitude\Desktop\Practica5\bin\Debug\net8.0-windows\Practica5.deps.json
+C:\Users\Dell Latitude\Desktop\Practica5\bin\Debug\net8.0-windows\Practica5.runtimeconfig.json
+C:\Users\Dell Latitude\Desktop\Practica5\bin\Debug\net8.0-windows\Practica5.dll
+C:\Users\Dell Latitude\Desktop\Practica5\bin\Debug\net8.0-windows\Practica5.pdb
+C:\Users\Dell Latitude\Desktop\Practica5\obj\Debug\net8.0-windows\Practica5.Form1.resources
+C:\Users\Dell Latitude\Desktop\Practica5\obj\Debug\net8.0-windows\Practica5.csproj.GenerateResource.cache
+C:\Users\Dell Latitude\Desktop\Practica5\obj\Debug\net8.0-windows\Practica5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell Latitude\Desktop\Practica5\obj\Debug\net8.0-windows\Practica5.AssemblyInfoInputs.cache
+C:\Users\Dell Latitude\Desktop\Practica5\obj\Debug\net8.0-windows\Practica5.AssemblyInfo.cs
+C:\Users\Dell Latitude\Desktop\Practica5\obj\Debug\net8.0-windows\Practica5.csproj.CoreCompileInputs.cache
+C:\Users\Dell Latitude\Desktop\Practica5\obj\Debug\net8.0-windows\Practica5.dll
+C:\Users\Dell Latitude\Desktop\Practica5\obj\Debug\net8.0-windows\refint\Practica5.dll
+C:\Users\Dell Latitude\Desktop\Practica5\obj\Debug\net8.0-windows\Practica5.pdb
+C:\Users\Dell Latitude\Desktop\Practica5\obj\Debug\net8.0-windows\Practica5.genruntimeconfig.cache
+C:\Users\Dell Latitude\Desktop\Practica5\obj\Debug\net8.0-windows\ref\Practica5.dll
