@@ -1,0 +1,16 @@
+C:\Users\Dell Latitude\Desktop\ejercicio03\bin\Debug\net8.0-windows\ejercicio03.exe
+C:\Users\Dell Latitude\Desktop\ejercicio03\bin\Debug\net8.0-windows\ejercicio03.deps.json
+C:\Users\Dell Latitude\Desktop\ejercicio03\bin\Debug\net8.0-windows\ejercicio03.runtimeconfig.json
+C:\Users\Dell Latitude\Desktop\ejercicio03\bin\Debug\net8.0-windows\ejercicio03.dll
+C:\Users\Dell Latitude\Desktop\ejercicio03\bin\Debug\net8.0-windows\ejercicio03.pdb
+C:\Users\Dell Latitude\Desktop\ejercicio03\obj\Debug\net8.0-windows\ejercicio03.Form1.resources
+C:\Users\Dell Latitude\Desktop\ejercicio03\obj\Debug\net8.0-windows\ejercicio03.csproj.GenerateResource.cache
+C:\Users\Dell Latitude\Desktop\ejercicio03\obj\Debug\net8.0-windows\ejercicio03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell Latitude\Desktop\ejercicio03\obj\Debug\net8.0-windows\ejercicio03.AssemblyInfoInputs.cache
+C:\Users\Dell Latitude\Desktop\ejercicio03\obj\Debug\net8.0-windows\ejercicio03.AssemblyInfo.cs
+C:\Users\Dell Latitude\Desktop\ejercicio03\obj\Debug\net8.0-windows\ejercicio03.csproj.CoreCompileInputs.cache
+C:\Users\Dell Latitude\Desktop\ejercicio03\obj\Debug\net8.0-windows\ejercicio03.dll
+C:\Users\Dell Latitude\Desktop\ejercicio03\obj\Debug\net8.0-windows\refint\ejercicio03.dll
+C:\Users\Dell Latitude\Desktop\ejercicio03\obj\Debug\net8.0-windows\ejercicio03.pdb
+C:\Users\Dell Latitude\Desktop\ejercicio03\obj\Debug\net8.0-windows\ejercicio03.genruntimeconfig.cache
+C:\Users\Dell Latitude\Desktop\ejercicio03\obj\Debug\net8.0-windows\ref\ejercicio03.dll
