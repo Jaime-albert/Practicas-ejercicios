@@ -1,0 +1,41 @@
+
+body {
+    background: linear-gradient(135deg, #000000, #262727);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+}
+
+form {
+    color: rgb(255, 255, 255);
+    background: linear-gradient(black , rgb(143, 140, 140));
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #ccc;
+    display: inline-block;
+    font-family: 'Times New Roman', Times, serif;
+}
+label {
+    font-weight: bold; /* Negrita */
+    color: aqua;
+}
+input {
+    width: auto;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+button {
+    background: rgb(0, 0, 0);
+    font-weight: bold; /* Negrita */
+    color: aqua;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+h5 {
+    color:aqua
+}
