@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora</title>
+    <style>
+        body/*estlilo del cuerpo de la pagina */{
+            background: #c5bebe;/* modifica el color del fondo */
+            min-height: 100vh;/*minimo total de altura en el navegador */
+            margin: 0;/* elimina el margen por defecto */
+            font-family: Arial, sans-serif;/*fuente de las las palabras */
+        }
+
+        form/*estlilo del fomulario */ {
+            background: #020202;/* modifica el color del fondo */
+            padding: 2rem 1.5rem;/*agrega relleno 2rem hacia arriba y 1.5 a la derecha e izquierda*/
+            border-radius: 15px;/*hace que las equinas sean redondas con un radio de 15 pixeles se ve mas bolita*/
+            max-width: 350px;/*se reduce hasta un minimo pero no se incrementa aunque la ventena sea mayor*/
+            margin: 3rem auto;/*define un margen de 3rem hacia arriba y auto lo cual hace que se centre*/
+            display: flex;/*alinea en colubna o filas el contenido */
+            flex-direction: column;/*vuelve el contenido en columnas*/
+            gap: 1rem;/*hace que se separe todos los elementos para una vista mas ordenada */
+        }
+        label {
+            font-weight: bold;
+            margin-bottom: 0.3rem;
+            color: #fff;/*cambia el color de la letra*/
+        }
+        input, select, button {
+            padding: 0.5rem;
+            border-radius: 8px;
+            border: 1px solid #b0b0b0;
+            font-size: 1rem;
+        }
+        button {
+            background: #0078d7;
+            color: #fff;
+            border: none;
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+        button:hover {
+            background: #0468af;
+        }
+        @media (max-width: 400px) {/*si la pantalla tiene menos de 400px se aplicaran los siguientes cambios para que no se deforme el formulario
+            ayuda en pantallas pequenas como las del telefoo*/
+            form {
+                padding: 1rem 0.5rem;
+                max-width: 95vw;
+            }
+            input, select, button {
+                font-size: 0.95rem;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <form action="practica03.php" method="get" id="form">
+
+        <label for="valor1">Ingrese el primer valor</label>
+
+        <input type="number" id="valor1" name="valor1" required>
+
+        <label for="valor2">Ingrese el segundo valor</label>
+
+        <input type="number" id="valor2" name="valor2" required>
+
+        <select name="operacion">
+
+            <option value="suma" style="background-color: rgb(247, 230, 4)">suma</option>
+
+            <option value="resta" style="background-color: rgb(38, 0, 255)">resta</option>
+
+            <option value="division" style="background-color: rgb(182, 108, 47)">division</option>
+
+            <option value="multiplicacion" style="background-color: rgb(248, 7, 7)">multiplicacion</option>
+
+        </select>
+
+        <button type="submit">Calcular</button>
+
+    </form>
+
+</body>
+
+</html>
