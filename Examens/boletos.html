@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cine UDM</title>
+</head>
+<body style="text-align: center ; background-color: black;">
+    <h1 style="border: 3px; border-style: solid; border-color: rgb(255, 255, 255); text-align: center ; color: rgb(255, 255, 255);">CINE UDM</h1><!--h1 es un titulo
+    al cual se le agrego un estilo de borde solido con un tamaño de 3px de color blanco y que este alineado en el centro-->
+
+    <div><!--se hace una divicion para tener dividido a la tabla y el formulario-->
+
+        <div><!--se hace una divicion para tener dividido a la tabla -->
+            <table style="color: aliceblue;"><!--se crea la tabla para los precios y salas
+                se le agrega un estilo de borde solido con un color blanco tanto para el borde como para el texto-->
+
+                <tr><!--fila-->
+                    <td><!--columna-->
+                        TARIFAS <br>
+                        VIP.......................150
+                    </td>
+                </tr>
+
+                <tr><!--fila-->
+                    <td><!--columna-->
+                        IMAX..................100
+                    </td>
+                </tr>
+
+                <tr><!--fila-->
+                    <td><!--columna-->
+                        3D.........................75
+                    </td>
+                </tr>
+
+                <tr><!--fila-->
+                    <td><!--columna-->
+                        2D.........................65
+                    </td>
+                </tr>
+
+            </table>
+            <p style="color: aliceblue;"> valoracion del tiket <br><br>
+                fabor de pedir las edades o credenciales de los estudiantes y adultos mayores
+            </p><!--parrafo con un color de letra blanco-->
+        </div>
+
+        <div><!--se hace una divicion para tener dividido al formulario-->
+
+            <style>
+                input {/*estilo de los inputs color del fondo, letra y estilo del borde*/
+                    background-color: rgb(0, 0, 0); 
+                    color: aliceblue; 
+                    border-style: double;
+                }
+            </style>
+
+            <form action="boletos.php" style="color: aliceblue ;" method="post"><br><!--formulario que se conecta con boletos.php y se envia por el metodo post-->
+                <label for="">Nombre completo_</label><!--texto de precentacion-->
+                <input type="text" name="nombre"><br><!-- recibidor de nombre
+                se agregan los input para recibir lo que se va a calcular junto con sus estilos fondo color de letra stilo del borde tipo de input-->
+
+                <label for="">Funcion_________________</label>
+                <select name="Funcion"><!--select para selecionar sus opciones y en base a eso comunicarlo al php para la operacion-->
+                <option value="Sala VIP">Sala VIP</option>
+                <option value="Funcion IMAX">Funcion IMAX</option>
+                <option value="Funcion 3D">Funcion 3D</option>
+                <option value="Funcion 2D">Funcion 2D</option>
+            </select><br>
+
+
+                <label for="">Adultos_________</label>
+                <input type="number" name="adultos"><br>
+
+                <label for="">Estudiante_______</label>
+                <input type="number" name="estudiantes"><br>
+
+                <label for="">Ninos___________</label>
+                <input type="number" name="ninos" "><br>
+                
+                <label for="">Adulto Mayor____</label>
+                <input type="number" name="adulto_mayor"><br><BR></BR>
+
+                <button type="submit" style="background-color: black; color: aliceblue; border: none;"> Tiket </button>
+<br><br>
+            </form>
+        </div>
+
+    </div>
+
+    <h5 style="color: aliceblue;">Gracias por atender a nuestros clientes <br>
+        Familia , Union , Desarrollo
+    </h5>
+
+</body>
+</html
