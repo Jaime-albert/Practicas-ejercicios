@@ -1,0 +1,72 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;/*fuente de texto*/
+    font-size: 15px;/*tamano de la fuente*/
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;/*color del texto*/
+}
+
+h2 {
+    text-align: center;/*alineacion del texto*/
+    text-indent: 30px;/*sangria*/
+    text-decoration: underline;/*subrayado*/
+    text-transform: uppercase;/*mayusculas*/
+    line-height: 1.5;/*interlineado*/
+    text-shadow: 4px 7px 3px rgb(139, 111, 111);/*sombreado*/
+}
+#right {
+    text-align: right;/*alineacion hacia la derecha*/
+}
+
+#center {
+    text-align: center;/*alineacion centrada*/
+}
+
+#justify {
+    text-align: justify;/*alineacion en parrafo*/
+}
+
+#texto-con-sangria {
+    text-indent: 30px;/*sangria*/
+}
+
+#underline {
+    text-decoration: underline;/*subrayado*/
+}
+
+#overline {
+    text-decoration: overline;/*sobre subrayado*/
+}
+
+#line-through {
+    text-decoration: line-through;/*tachado*/
+}
+
+#capitalize {
+    text-transform: capitalize;/*la primera letra de cada palabra va en mayuscula*/
+}
+
+#uppercase {
+    text-transform: uppercase;/*todo en mayusculas*/
+}
+
+#lowercase {
+    text-decoration: lowercase;/*todo en minusculas*/
+}
+
+#interlineado {
+    line-height: 1.5;/*interlineado*/
+}
+
+#interlineado2 {
+    line-height: 1.5;/*interlineado*/
+}
+
+#sombra {
+    text-shadow: 10px 10px 10px rgb(255, 255, 255);/*sombreado*/
+}
+
+#multiple {
+    text-shadow: 4px 7px 3px rgb(116, 62, 106), 
+    4px 7px 3px rgb(255, 12, 12), 
+    4px 7px 3px rgb(0, 0, 0);/*multi sombra*/
+}
